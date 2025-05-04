@@ -1,0 +1,1 @@
+console.log('BoTone Beta App Loaded');
